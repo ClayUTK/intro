@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jiahui Yang"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Jiahui Yang"
-description              : &description "EE PhD student at UTK"
+name                     : &name "Home"
+description              : &description "Jiahui Yang's Blog"
 url                      : https://clayutk.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "/intro" # the subpath of your site, e.g. "/blog"
 repository               : "ClayUTK/intro"
@@ -21,22 +21,15 @@ repository               : "ClayUTK/intro"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "avatar.png"
+  name             : "Jiahui Yang (Clay)"
+  bio              : "EE PhD student at UTK"
+  location         : "US"
+  email            : "jyang75@vols.utk.edu" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=eyFcVnoAAAAJ&hl=zh-CN"
+  linkedin         : "https://www.linkedin.com/in/jiahui-yang-566874278/"
   researchgate     : # URL
   scopus           : # URL
 
@@ -58,7 +51,6 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
