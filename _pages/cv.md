@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-:mortar_board: Education
+Education
 ======
 * Ph.D in Electrical engineering, University of Tennessee, Knoxville, 2024-Present
 * M.S. in Electrical engineering, Tianjin University, 2021-2024
