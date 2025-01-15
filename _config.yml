@@ -24,7 +24,7 @@ author:
   avatar           : "avatar.png"
   name             : "Jiahui Yang (Clay)"
   bio              : "EE PhD student at UTK"
-  location         : "US"
+  location         : #"US"
   email            : "jyang75@vols.utk.edu" 
 
   # Academic websites
