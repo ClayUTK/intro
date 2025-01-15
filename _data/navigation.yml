@@ -16,7 +16,7 @@ main:
     url: /projects/
   
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /blog/
 
   #- title: "Talks"
   #  url: /talks/    
