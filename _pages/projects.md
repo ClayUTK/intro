@@ -9,15 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-:mortar_board: Education
-======
-* Ph.D in Electrical engineering, University of Tennessee, Knoxville, 2024-Present
-* M.S. in Electrical engineering, Tianjin University, 2021-2024
-* B.S. in Electrical engineering and automation, Tianjin University, 2017-2021
- 
-Skills
-======
-* Programming: C/C++, Python, Matlab
-* Operating system: Windows, Linux, Mac, Embedded system
-* Software: PSSE, PSCAD
+# 1. Key technologies of digital power grid
+* **time**: 2020.12-2023.9
+* **role**: I mainly took part in the second sub-project: the development of edge computing devices toward multi-service collaboration in digital power grid. I am responsibile for the research about massive data compression and its deployment on edge computing devices to alleviate the burden of communication systems.
+* **finding**: I proposed a real-time data compression method, including predicion, quantization and bitpack. Please refer to [this paper](https://github.com/ClayUTK/intro/blob/358e661b271cfcca502c813e681e024cb3b3c0ac/_publications/Real-Time_D-PMU_Data_Compression_for_Edge_Computing_Devices_in_Digital_Distribution_Networks.pdf) to get more details.
 
