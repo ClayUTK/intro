@@ -9,5 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-1. <https://clay463.wordpress.com/>
-2. <https://www.cnblogs.com/clayyjh>
+# 2024.8-present
+<https://clay463.wordpress.com/>
+
+# By 2024.8
+<https://www.cnblogs.com/clayyjh>
