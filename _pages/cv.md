@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+Research Direction
+======
+* Hardware development of PMU
+* Timing source based on Pulsar data
+* Phasor data calculation and data science
+
 Education
 ======
 * Ph.D in Electrical engineering, University of Tennessee, Knoxville, 2024-Present
