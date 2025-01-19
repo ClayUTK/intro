@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Projects"
+#title: "Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -8,6 +8,15 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+# 3. Timing soure based on Pulsar data
+* **time**: 2024.11-present
+* **role**: I am responsibile the development of the platform to get accurate and synchronous PPS signal based on pulsar data.
+
+# 2. Hardware maintenance
+* **time**: 2024.8-present
+* **role**: I am responsile for maintenance of FDR and UGA devices (PMU) in our lab, involving DSP and MCU parts. More information could refer to our [website](https://fnetpublic.utk.edu/index.html).
+
 
 # 1. Key technologies of digital power grid
 * **time**: 2020.12-2023.9
