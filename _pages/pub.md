@@ -6,21 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
-Research Direction
-======
-* Hardware development of PMU
-* Timing source based on Pulsar data
-* Phasor data calculation and data science
+1. Real-time D-PMU data compression for edge computing devices in digital distribution networks. **Jiahui Yang**, Hao Yu, Peng Li, Haoran Ji, Wei Xi, Jianzhong Wu, Chengshan Wang. IEEE Transactions on Power Systems, 2024, 39(4). <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF Icon" style="height: 20px; vertical-align: middle;"> [Paper]()
 
-Education
-======
-* Ph.D in Electrical engineering, University of Tennessee, Knoxville, 2024-Present
-* M.S. in Electrical engineering, Tianjin University, 2021-2024
-* B.S. in Electrical engineering and automation, Tianjin University, 2017-2021
- 
-Skills
-======
-* Programming: C/C++, Python, Matlab
-* Operating system: Windows, Linux, Mac, Embedded system
-* Software: PSSE, PSCAD
+
 
