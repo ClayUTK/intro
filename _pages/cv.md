@@ -23,6 +23,8 @@ Education
  
 Skills
 ======
-* Programming: C/C++, Python, Matlab
-* Operating system: Windows, Linux, Mac, Embedded system
-* Software: PSSE, PSCAD
+* Programming: C/C++, Python, Matlab, ChatGPT
+* Operating system: Windows, Linux, Mac;
+* Cloud server; Amazon EC2, Microsoft Azure, Google Cloud, Altanic
+* Embedded system: Raspberry Pi, Stm32 (proficient); NodeMcu, OpenMV (familiar); DSP & FPGA (leanrning)
+* Software: PSSE, PSCAD, Matpower, AutoCAD, Altium, office
