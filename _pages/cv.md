@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Research Direction
+Research Area
 ======
 * Hardware development of PMU
 * Timing source based on Pulsar data
