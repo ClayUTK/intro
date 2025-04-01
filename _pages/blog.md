@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # 2024.8-present
-<https://clay463.wordpress.com/>
+<http://jiahuiyang.info/>
 
 # By 2024.8
 <https://www.cnblogs.com/clayyjh>
