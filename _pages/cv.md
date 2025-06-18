@@ -28,3 +28,4 @@ Skills
 * Cloud server: Amazon EC2, Microsoft Azure, Google Cloud, Altanic
 * Embedded system: Raspberry Pi, Stm32 (proficient); NodeMcu, OpenMV (familiar); DSP & FPGA (learning)
 * Software: PSSE, PSCAD, Matpower, AutoCAD, Altium, office
+ 
