@@ -24,7 +24,7 @@ redirect_from:
 * B.S. in Electrical engineering and automation, Tianjin University, 2017-2021
 
 # Honors & Awards
-• 🏆 R & D 100 Award, 2025
+• 🏆 R&D 100 Award, 2025
 
 # Skills
 * Programming: C/C++, Python, Matlab, ChatGPT
