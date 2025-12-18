@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF: ](https://github.com/ClayUTK/intro/blob/cf6d1a86a5c7b529c6ce1ed104f5904dd4298838/files/Jiahui%20Yang_Resume_V3.pdf)[<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF Icon" style="height: 20px; vertical-align: middle;">](https://github.com/ClayUTK/intro/blob/cf6d1a86a5c7b529c6ce1ed104f5904dd4298838/files/Jiahui%20Yang_Resume_V3.pdf)
+CV: [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF Icon" style="height: 20px; vertical-align: middle;">](https://github.com/ClayUTK/intro/blob/cf6d1a86a5c7b529c6ce1ed104f5904dd4298838/files/Jiahui%20Yang_Resume_V3.pdf)
 
 Research Area
 ======
