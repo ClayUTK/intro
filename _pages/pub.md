@@ -17,7 +17,7 @@ author_profile: true
 
 
 # 2024
-1. 智能配用电数据压缩方法研究进展及展望. 于浩, **杨家辉<sup>*</sup>**, 习伟, 李鹏, 王成山. 供用电，2024. [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF Icon" style="height: 20px; vertical-align: middle;">](https://epjournal.csee.org.cn/gyd/article/doi/10.19421/j.cnki.1006-6357.2024.08.001)
+1. 智能配用电数据压缩方法研究进展及展望. 于浩, **杨家辉<sup>*</sup>**, 习伟, 李鹏, 王成山. 供用电，2024.
 
 # 2023
 1. Real-time D-PMU data compression for edge computing devices in digital distribution networks. **Jiahui Yang**, Hao Yu, Peng Li, et al. **IEEE Transactions on Power Systems**, 2024, 39(4). [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF Icon" style="height: 20px; vertical-align: middle;">](https://github.com/ClayUTK/intro/blob/60002dcc49009d6e429066cbfd9b92ce2f7c7541/_publications/Real-Time_D-PMU_Data_Compression_for_Edge_Computing_Devices_in_Digital_Distribution_Networks.pdf)
