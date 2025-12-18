@@ -13,7 +13,7 @@ Hello, I am Jiahui (Clay) Yang, a PhD researcher in Electrical Engineering at th
 
 ## 2025 🐍
 
-- The Universal GridEdge Analyzer (UGA), a project I contributed to at the University of Tennessee, Knoxville in collaboration with Oak Ridge National Laboratory, received an R&D 100 Award.
+- The Universal GridEdge Analyzer (UGA), a project I contributed to at the University of Tennessee, Knoxville in collaboration with Oak Ridge National Laboratory, received an **R&D 100 Award**.
 
 - Published “Enhancing Time Synchronization in Smart Grid with White Rabbit: Theory, Architecture and Challenges”, presenting a systematic analysis of White Rabbit–based sub-nanosecond time synchronization for smart grid applications. 🎉
 
