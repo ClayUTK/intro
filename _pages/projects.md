@@ -18,7 +18,7 @@ redirect_from:
 *	Used a signal generator to emulate pulsar profiles and employed a high-rate ADC for sampling.
 *	Developed FPGA firmware to process raw samples in real time and stream high-throughput data to a server over a 10-GbE interface and PF_RING package.
 *	Applied polyphase filter bank processing, folding, and period estimation to extract pulsar period and calibrate the local oscillator, generating a highly accurate PPS output synchronized to GPS.
-## 3.	Key technologies of digital power grid (edge computing + data compression)
+## 3.	Key technologies of digital power grid (edge computing + data compression) 
 *	Collaborated with China Southern Power Grid on the design of edge-computing devices for distribution grids, supporting integrated monitoring, protection, control, and PMU capabilities.
 *	Worked with container-based embedded infrastructure enabling modular deployment.
 *	Designed and implemented real-time PMU data compression algorithms achieving high accuracy and high compression ratio for large-scale data transmission and storage.
