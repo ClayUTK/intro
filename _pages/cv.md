@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% include base_path %} 
 
 [Download PDF](https://github.com/ClayUTK/intro/blob/599c35d5e53aa6be753d78063d0292f0bac02b60/files/Jiahui%20Yang_Resume_V4.pdf)
 
