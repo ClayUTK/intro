@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download PDF](https://github.com/ClayUTK/intro/blob/cf6d1a86a5c7b529c6ce1ed104f5904dd4298838/files/Jiahui%20Yang_Resume_V3.pdf)
+[Download PDF](https://github.com/ClayUTK/intro/blob/599c35d5e53aa6be753d78063d0292f0bac02b60/files/Jiahui%20Yang_Resume_V4.pdf)
 
 # Research Area
 * Wide-area power system monitoring FNET/GridEye
